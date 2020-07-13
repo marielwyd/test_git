@@ -1,0 +1,59 @@
+@font-face {
+    font-family: GraphikLCG;
+    src: url(../fonts/GraphikLCGRegular-eot.eot) format("eot"), src url(../fonts/GraphikLCGRegular-woff2.woff2) format("woff2"), url(../fonts/GraphikLCGRegular-woff.woff) format("woff"), url(../fonts/GraphikLCGRegular-ttf.ttf) format("ttf")
+}
+
+@font-face {
+    font-family: GraphikLCG-Medium;
+    src: url(../fonts/GraphikLCGMedium-eot.eot) format("eot"), src url(../fonts/GraphikLCGMedium-woff2.woff2) format("woff2"), url(../fonts/GraphikLCGMedium-woff.woff) format("woff"), url(../fonts/GraphikLCGMedium-ttf.ttf) format("ttf")
+}
+
+@font-face {
+    font-family: GraphikLCG-Black;
+    src: url(../fonts/GraphikLCGBlack-eot.eot) format("eot"), src url(../fonts/GraphikLCGBlack-woff2.woff2) format("woff2"), url(../fonts/GraphikLCGBlack-woff.woff) format("woff"), url(../fonts/GraphikLCGBlack-ttf.ttf) format("ttf")
+}
+
+@font-face {
+    font-family: Montserrat;
+    font-weight: 900;
+    font-style: normal;
+    src: url(../fonts/Montserrat-Black-woff2.woff2) format("woff2"), url(../fonts/Montserrat-Black-woff.woff) format("woff")
+}
+
+@font-face {
+    font-family: Montserrat;
+    font-weight: 800;
+    font-style: normal;
+    src: url(../fonts/Montserrat-ExtraBold-woff2.woff2) format("woff2"), url(../fonts/Montserrat-ExtraBold-woff.woff) format("woff")
+}
+
+@font-face {
+    font-family: Montserrat;
+    font-weight: 700;
+    font-style: normal;
+    src: url(../fonts/Montserrat-Bold-woff2.woff2) format("woff2"), url(../fonts/Montserrat-Bold-woff.woff) format("woff")
+}
+
+@font-face {
+    font-family: Montserrat;
+    font-weight: 600;
+    font-style: normal;
+    src: url(../fonts/Montserrat-SemiBold-woff2.woff2) format("woff2"), url(../fonts/Montserrat-SemiBold-woff.woff) format("woff")
+}
+
+@font-face {
+    font-family: Montserrat;
+    font-weight: 500;
+    font-style: normal;
+    src: url(../fonts/Montserrat-Medium-eot.eot);
+    src: url(../fonts/Montserrat-Medium-woff2.woff2) format("woff2"), url(../fonts/Montserrat-Medium-woff.woff) format("woff")
+}
+
+@font-face {
+    font-family: Montserrat;
+    font-weight: 400;
+    font-style: normal;
+    src: url(../fonts/Montserrat-Regular-eot.eot) format("eot"), src url(../fonts/Montserrat-Regular-woff2.woff2) format("woff2"), url(../fonts/Montserrat-Regular-woff.woff) format("woff")
+}
+
+
